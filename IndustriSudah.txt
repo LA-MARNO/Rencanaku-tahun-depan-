@@ -9,3 +9,11 @@ Sebagai fullstack, kamu hampir pasti kerja tim:
 Frontend & backend bisa kerja bareng tanpa tabrakan
 Bisa pakai fitur branch, pull request, merge
 Di dunia kerja, ini standar. Kalau kamu tidak paham GitHub, kamu akan tertinggal.
+5. Industri Sudah Standar Ini
+
+Perusahaan besar sampai startup hampir semuanya pakai Git + GitHub (atau alternatif seperti GitLab).
+
+Kalau kamu tidak menguasai ini:
+
+Bukan cuma “kurang skill”
+Tapi dianggap belum siap kerja
