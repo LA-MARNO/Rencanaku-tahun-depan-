@@ -4,3 +4,8 @@ Melihat riwayat perubahan kode
 Kembali ke versi sebelumnya kalau ada error
 Melacak siapa yang mengubah apa
 Tanpa ini, ngoding itu seperti “jalan tanpa jejak”—sekali rusak, susah balik.
+2. Kolaborasi Tim
+Sebagai fullstack, kamu hampir pasti kerja tim:
+Frontend & backend bisa kerja bareng tanpa tabrakan
+Bisa pakai fitur branch, pull request, merge
+Di dunia kerja, ini standar. Kalau kamu tidak paham GitHub, kamu akan tertinggal.
