@@ -1,0 +1,8 @@
+4. Deployment & Integrasi
+
+GitHub bisa terhubung dengan tools seperti:
+
+CI/CD (auto deploy)
+Hosting (Vercel, Netlify, dll)
+
+Jadi dari push kode → langsung bisa jadi website live.
