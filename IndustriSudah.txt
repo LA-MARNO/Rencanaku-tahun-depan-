@@ -1,0 +1,9 @@
+1. Version Control (Kontrol Versi)
+
+Dengan GitHub, kamu bisa:
+
+Melihat riwayat perubahan kode
+Kembali ke versi sebelumnya kalau ada error
+Melacak siapa yang mengubah apa
+
+Tanpa ini, ngoding itu seperti “jalan tanpa jejak”—sekali rusak, susah balik.
